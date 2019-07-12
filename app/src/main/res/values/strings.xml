@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Proyecto144</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="buttonNext">Login</string>
+    <string name="email_not_valid">Email no válido</string>
+    <string name="these_field_are_mandatory">Este campo es obligatorio.</string>
+    <string name="passwordShort">Contraseña muy corta.</string>
+    <string name="mensaje">El siguiente correo ha sido registrado correctamente.</string>
+    <string name="mensaje2">Gracias por registrarse.</string>
+</resources>
